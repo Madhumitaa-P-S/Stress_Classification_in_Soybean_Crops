@@ -15,6 +15,9 @@ This project uses machine learning models to analyze morphological data and clas
 The models compared include:
 - **Support Vector Machine (SVM)**
 - **Gradient Boosting Classifier**
+- **k Nearest Neighbours**
+- **Naive Bayes**
+- **Random Forest Classifier**
 
 ---
 
@@ -33,9 +36,12 @@ The models compared include:
 2. **Model Training**
    - Support Vector Machine (SVM)
    - Gradient Boosting Classifier (GB)
+   - k Nearest Neighbours (kNN)
+   - Naive Bayes (Naive)
+   - Random Forest Classifier (RFC)
 
 3. **Performance Evaluation**
    - Metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix.
-   - Visualization of model comparisons.
+   - Model comparisons.
 
 ---
